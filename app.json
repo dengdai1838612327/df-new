@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/list/list",
+    "pages/confirm/confirm",
+    "pages/info/info",
+    "pages/record/record",
+    "pages/set/set"
+  ]
+}
